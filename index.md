@@ -1,24 +1,21 @@
 ---
 layout: default
 ---
+## Hi there
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Soy Arquitecto por la Universidad de Sevilla y Máster en Diseño y Cálculo de Estructuras de Madera por la UPV.
+Realicé mi proyecto final de máster con Iñaki Pasivo, donde realicé una propuesta estructural en madera para el Gimnasio Maravillas.
 
-[Link to another page](./another-page.html).
+Actualmente trabajo de investigador en la Universidad de Navarra, en el desarrollo de modelos de cálculo de madera contralaminada (CLT).
+Trabajo sobre todo con Dlubal RFEM, pero también me manejo en Cype Estructuras, Abaqus.
+Tengo experiencia con Python, implementando scripts para Abaqus y para tratamiento de datos. Estoy familiarizado con C, PHP y HTML.
 
-There should be whitespace between paragraphs.
+[Proyecto final de máster](./another-page.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Almuersito.
 
 ### Header 3
 
@@ -30,25 +27,6 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ###### Header 6
 
 | head1        | head two          | three |
@@ -58,39 +36,6 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -101,23 +46,4 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
