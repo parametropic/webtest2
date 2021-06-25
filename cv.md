@@ -7,9 +7,9 @@
 
 ### CURSOS Y WORKSHOPS
 
-2016       | Festival de construcción en madera Hello Wood. Hungría.
-2020       | Curso de Acústica en Construcciones en Madera. PROFUSTA.
-2020       | Curso de Verano UPV/EHU: Construcción Eficiente en Madera.
+  2016     | Festival de construcción en madera Hello Wood. Hungría.
+  2020     | Curso de Acústica en Construcciones en Madera. PROFUSTA.
+  2020     | Curso de Verano UPV/EHU: Construcción Eficiente en Madera.
 
 ### EXPERIENCIA LABORAL
 
