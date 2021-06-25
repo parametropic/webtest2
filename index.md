@@ -10,7 +10,7 @@ Actualmente trabajo de investigador en la Universidad de Navarra, en el desarrol
 Trabajo sobre todo con Dlubal RFEM, pero también me manejo en Cype Estructuras, Abaqus.
 Tengo experiencia con Python, implementando scripts para Abaqus y para tratamiento de datos. Estoy familiarizado con C, PHP y HTML.
 
-[mail]  [linkedIn]  [Instagram]
+[mail]  [linkedin]  [instagram]
 
 
 
