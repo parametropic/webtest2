@@ -10,8 +10,7 @@ Actualmente trabajo de investigador en la Universidad de Navarra, en el desarrol
 Trabajo sobre todo con Dlubal RFEM, pero también me manejo en Cype Estructuras, Abaqus.
 Tengo experiencia con Python, implementando scripts para Abaqus y para tratamiento de datos. Estoy familiarizado con C, PHP y HTML.
 
-
-\[[mail]\]  \[[linkedin](https://www.linkedin.com/in/glezsernapablo/)\]  \[[instagram](https://www.instagram.com/pabgser/)\] \[[brother](https://www.alvaro.gs)\]
+Hermano de [alvaro.gs](https://www.alvaro.gs).
 
 
 
