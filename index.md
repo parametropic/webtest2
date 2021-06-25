@@ -11,6 +11,8 @@ Trabajo sobre todo con Dlubal RFEM, pero también me manejo en Cype Estructuras,
 Tengo experiencia con Python, implementando scripts para Abaqus y para tratamiento de datos. Estoy familiarizado con C, PHP y HTML.
 
 
+\[[mail]\]  \[[linkedin](https://www.linkedin.com/in/glezsernapablo/)\]  \[[instagram](https://www.instagram.com/pabgser/)\]
+
 
 
 
