@@ -12,7 +12,7 @@ Actualmente trabajo de investigador en la Universidad de Navarra, desarrollando 
 
 Soy aficionado a la programación. Utilizo Python en el día a día para la creación de scripts de apoyo a mi trabajo. Estoy familiarizado con C, PHP y HTML.
 
-Ver [CV completo](./content/cv.html).
+Ver [CV completo](./cv.html).
 
 Ah, también soy hermano de [alvaro.gs](https://www.alvaro.gs).
 
