@@ -3,15 +3,15 @@ layout: default
 ---
 ## Hi there!
 
-Soy arquitecto por la Universidad de Sevilla y [Máster en Diseño y Cálculo de Estructuras de Madera](./tfm.html) por la Universidad del País Vasco. Gracias a una beca de prácticas internacionales, tuve la oportunidad de pasar una temporada trabajando en diversos estudios de diseño arquitectónico en Japón, donde desarrollé mi afición por la madera, la tradición carpintera, y por el tonkotsu ramen.
+I'm an architect from Universidad de Sevilla with a Master's degree in Timber Engineering from Universidad del País Vasco. Thanks to an internship grant, I had the opportunity to spend some time living and working as an architect in Japan, where I developed my interest in timber, carpentry traditions and tonkotsu ramen.
 
-Actualmente trabajo de investigador para la Cátedra de Madera en la Escuela de Arquitectura de la Universidad de Navarra, desarrollando métodos de modelado y cálculo simplificado para edificios en altura de [madera contralaminada](./clt.html) (CLT) y trabajando con Dlubal RFEM y Abaqus.
+Now working as a consulting timber engineer at Tecnalia Research & Innovation.
 
-Soy aficionado a la programación. Utilizo Python en el día a día para el desarrollo de scripts de apoyo a mi trabajo y me gusta crear herramientas de diseño y modelado con Rhinoceros y Grasshopper 3D.
+I'm a programming enthusiast. I like to develop scripts and modelling tools to support my day-to-day work. 
 
-Ver [CV completo](./cv.html).
+Check my [full CV](./cv.html).
 
-También soy hermano de [alvaro.gs](https://www.alvaro.gs).
+Brother of [alvaro.gs](https://www.alvaro.gs).
 
 
 
