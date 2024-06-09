@@ -10,6 +10,4 @@ Técnico en la línea de madera del laboratorio de materiales de construcción e
 
 Castellano | Nativo
 Inglés     | Full Professional Proficiency
-Francés    | Básico conversacional
-Japonés    | Básico conversacional
 Python     | Nivel medio
